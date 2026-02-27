@@ -24,4 +24,12 @@ let a = 10;
 let b= -a;
 console.log(b);
 
+console.log(1+"2");
+console.log("1"+2);
+console.log(1+2+"2");
+
+// console.log(true+);
+
+console.log(+"");
+
 
